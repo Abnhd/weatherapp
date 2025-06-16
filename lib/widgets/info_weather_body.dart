@@ -22,7 +22,7 @@ class WeatherInfoBody extends StatelessWidget {
           teamcolor(weatherModel.weathercondition)[300]!,
           teamcolor(weatherModel.weathercondition)[200]!,
         ],
-        begin: Alignment.topLeft,
+        begin: Alignment.topRight,
         end: Alignment.bottomRight,
       ),
     ),
